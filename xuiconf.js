@@ -80,7 +80,7 @@ xui.$cache.functions = {
 
 // [[Constant Data
 xui.constant = {
-    "request_url":"https://www.crossui.com/demo/OrderManagement/request.php"
+    "request_url":"request.php"
 };
 // ]]Constant Data
 
