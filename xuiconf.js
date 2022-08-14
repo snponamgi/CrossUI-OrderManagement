@@ -80,7 +80,7 @@ xui.$cache.functions = {
 
 // [[Constant Data
 xui.constant = {
-    "request_url":"requestfdsa.php"
+    "request_url":"request.php"
 };
 // ]]Constant Data
 
